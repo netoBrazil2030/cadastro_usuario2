@@ -1,4 +1,4 @@
-Resumo do Código , bando de dados sqlserver e sistema web.
+Resumo do Código , banco de dados sqlserver e sistema web.
 1. O usuário acessa /Contato/Index.
 2. O Controller consulta a tabela e pega a lista de Contato.
 3. O Controller envia essa lista para a View, que renderiza o HTML na tela do navegador.
